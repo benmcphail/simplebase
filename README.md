@@ -1,10 +1,10 @@
 # Simple base
 
-Basically I've been doing various variants of default product setups, this is an attempt to unify (mainly the front end).
+Basically I've been doing various variants of default product setups, this is an attempt to unify (mainly the front end) to a convention that seems to be used by others.
 
-NB: was mean to grunt, but reverted to gulp for this one.
+NB: was meant to grunt, but reverted to gulp due to soul destroying bug.
 
-## to set up
+## To set up
 
 npm insatll
 
@@ -12,6 +12,6 @@ bower install
 
 gulp build
 
-got /dist/
+cd dist
 
 php -S localhost:1234
