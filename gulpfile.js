@@ -161,4 +161,4 @@ gulp.task( "watch", ["images",  "styles", "javascript", "copy", "jsconcat"], fun
 });
 
 /** Build */
-gulp.task( "build", ["production_env","clean","images","styles","copy", "javascript","jsconcat"], function() {} );
+gulp.task( "build", ["clean","images","styles","copy", "javascript","jsconcat"], function() {} );
