@@ -1,0 +1,27 @@
+{
+  "name": "simple",
+  "version": "0.0.0",
+  "authors": [
+    "ben mcphail <ben@benmcphail.com>"
+  ],
+  "description": "simple",
+  "main": "index.php",
+  "keywords": [
+    "blog"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5",
+    "jquery": "~2.1.4",
+    "jquery.easing": "~1.3.1",
+    "normalize-css": "~2.1.3",
+    "bourbon": "4.2.6",
+    "neat": "~1.7.2"
+  }
+}
